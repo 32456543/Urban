@@ -35,8 +35,8 @@
 # if [5,6] > 5:
 #     print('success')
 # но
-if '6' != 5:
-    print('success')
+# if '6' != 5:
+#     print('success')
 
 
 
