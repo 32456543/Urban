@@ -96,8 +96,8 @@ count_of_my_pets = 34
 if count_of_my_pets > 10:
     print('I need more space for my pets!')
 
-my_favorite_pets_and_bird = ['cat', 'wolf', 'ostrich']
-if 'lion' in my_favorite_pets_and_bird:
+animals_1 = ['cat', 'wolf', 'ostrich']
+if 'lion' in animals_1:
     print('Wow!')
 
 MyFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
@@ -113,12 +113,12 @@ MyFavoritePetsAndBirds = ['cat', 'wolf', 'ostrich']
 #   x y z - для координат
 
 # никогда не используйте в названиях переменных одиночные l, I, O  !
-l = 34
-I = 43
-if l > I:
+num = 34
+num_2 = 43
+if num > num_2:
     print()
-O = 9
-if O > 0:
+number = 9
+if number > 0:
     print()
 
 # lowercase (слово в нижнем регистре)
@@ -136,8 +136,8 @@ if O > 0:
 
 # автоматическое переименование в PyCharm и подсказки - вам не нужно набирать длинные названия переменных
 
-ss = ['cat', 'wolf', 'ostrich']
-if 'lion' in ss:
+animals_2 = ['cat', 'wolf', 'ostrich']
+if 'lion' in animals_2:
     print('Wow!')
 
 # В каждой уважающей себя компании есть style guide (стайл-гайд) - руководство по стилю написания кода.
